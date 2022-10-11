@@ -1,0 +1,3 @@
+MILP Algorithm is developed in Matlab R2021b.
+The algorithm is initialize by running optimization.m
+An Excel file is necessary to input data y output data from the algorithm. In this case the file is Datos optimizacion.xlsx
