@@ -1,5 +1,5 @@
 # TESIS
 Folder structure
-  MILP algorithm
-  Ant Colony algorithm
+  MILP algorithm;
+  Ant Colony algorithm;
   Data
