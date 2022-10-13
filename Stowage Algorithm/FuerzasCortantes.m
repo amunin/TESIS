@@ -10,8 +10,6 @@ function [bahia] = FuerzasCortantes(NCL1, Desp, matriz_slot)
 global NSL1 NCB1 NBCC1 NBSC1 NCBS1 DC11
 
 
-PR = 1766;
-L = 82;
 PRDistribuido = PR/L; %el peso en rosca distribuido a lo largo de la eslora
 DespDistribuido = Desp/L; %flotabilidad
 
